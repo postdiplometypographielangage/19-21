@@ -1,64 +1,63 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="s" format="2">
-  <advance width="500"/>
-  <unicode hex="0073"/>
-  <image fileName="S_creenshot 2020-05-04 at 4.58.04 P_M_.png" xScale="0.6797065049850503" yScale="0.6797065049850497" xOffset="-1.6465780400638141" yOffset="-67.28957354808409"/>
-  <outline>
-    <contour>
-      <point x="133" y="180" type="curve"/>
-      <point x="57" y="118" type="line"/>
-      <point x="91" y="68"/>
-      <point x="109" y="17"/>
-      <point x="109" y="-33" type="curve"/>
-      <point x="187" y="-32" type="line"/>
-      <point x="195" y="18" type="line"/>
-      <point x="227" y="1"/>
-      <point x="258" y="-6.0"/>
-      <point x="290" y="-6" type="curve" smooth="yes"/>
-      <point x="388" y="-6"/>
-      <point x="456" y="60"/>
-      <point x="449" y="154" type="curve"/>
-      <point x="449" y="283"/>
-      <point x="210" y="296"/>
-      <point x="210" y="374" type="curve"/>
-      <point x="210.0" y="404"/>
-      <point x="237" y="412"/>
-      <point x="263" y="412" type="curve" smooth="yes"/>
-      <point x="297" y="412"/>
-      <point x="331" y="386"/>
-      <point x="348" y="355" type="curve"/>
-      <point x="420" y="373" type="line"/>
-      <point x="399" y="430"/>
-      <point x="398" y="487"/>
-      <point x="417" y="544" type="curve"/>
-      <point x="300" y="521" type="line"/>
-      <point x="336" y="460" type="line"/>
-      <point x="300" y="492"/>
-      <point x="254" y="499"/>
-      <point x="216" y="499" type="curve"/>
-      <point x="124" y="499"/>
-      <point x="77" y="442"/>
-      <point x="77" y="371" type="curve" smooth="yes"/>
-      <point x="77" y="227"/>
-      <point x="322" y="214"/>
-      <point x="322" y="129" type="curve" smooth="yes"/>
-      <point x="322" y="107"/>
-      <point x="298" y="90"/>
-      <point x="268" y="90" type="curve" smooth="yes"/>
-      <point x="217" y="90"/>
-      <point x="169" y="130"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.Image.Brightness</key>
-      <real>0.4893685579299927</real>
-      <key>com.typemytype.robofont.Image.Contrast</key>
-      <real>1.0</real>
-      <key>com.typemytype.robofont.Image.Saturation</key>
-      <real>1.0</real>
-      <key>com.typemytype.robofont.Image.Sharpness</key>
-      <real>0.4000000059604645</real>
-    </dict>
-  </lib>
+	<advance width="500"/>
+	<unicode hex="0073"/>
+	<outline>
+		<contour>
+			<point x="133" y="180" type="curve"/>
+			<point x="57" y="118" type="line"/>
+			<point x="91" y="68"/>
+			<point x="109" y="17"/>
+			<point x="109" y="-33" type="curve"/>
+			<point x="187" y="-32" type="line"/>
+			<point x="195" y="18" type="line"/>
+			<point x="227" y="1"/>
+			<point x="258" y="-6"/>
+			<point x="290" y="-6" type="curve" smooth="yes"/>
+			<point x="388" y="-6"/>
+			<point x="456" y="60"/>
+			<point x="449" y="154" type="curve"/>
+			<point x="449" y="283"/>
+			<point x="210" y="296"/>
+			<point x="210" y="374" type="curve"/>
+			<point x="210" y="404"/>
+			<point x="237" y="412"/>
+			<point x="263" y="412" type="curve" smooth="yes"/>
+			<point x="297" y="412"/>
+			<point x="331" y="386"/>
+			<point x="348" y="355" type="curve"/>
+			<point x="420" y="373" type="line"/>
+			<point x="399" y="430"/>
+			<point x="398" y="487"/>
+			<point x="417" y="544" type="curve"/>
+			<point x="300" y="521" type="line"/>
+			<point x="336" y="460" type="line"/>
+			<point x="300" y="492"/>
+			<point x="254" y="499"/>
+			<point x="216" y="499" type="curve"/>
+			<point x="124" y="499"/>
+			<point x="77" y="442"/>
+			<point x="77" y="371" type="curve" smooth="yes"/>
+			<point x="77" y="227"/>
+			<point x="322" y="214"/>
+			<point x="322" y="129" type="curve" smooth="yes"/>
+			<point x="322" y="107"/>
+			<point x="298" y="90"/>
+			<point x="268" y="90" type="curve" smooth="yes"/>
+			<point x="217" y="90"/>
+			<point x="169" y="130"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.Image.Brightness</key>
+			<real>0.489</real>
+			<key>com.typemytype.robofont.Image.Contrast</key>
+			<real>1.0</real>
+			<key>com.typemytype.robofont.Image.Saturation</key>
+			<real>1.0</real>
+			<key>com.typemytype.robofont.Image.Sharpness</key>
+			<real>0.4</real>
+		</dict>
+	</lib>
 </glyph>
