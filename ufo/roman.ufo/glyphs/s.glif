@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="s" format="2">
-	<advance width="500"/>
 	<unicode hex="0073"/>
+	<advance width="500"/>
 	<outline>
 		<contour>
 			<point x="133" y="180" type="curve"/>
@@ -53,9 +53,9 @@
 			<key>com.typemytype.robofont.Image.Brightness</key>
 			<real>0.489</real>
 			<key>com.typemytype.robofont.Image.Contrast</key>
-			<real>1.0</real>
+			<integer>1</integer>
 			<key>com.typemytype.robofont.Image.Saturation</key>
-			<real>1.0</real>
+			<integer>1</integer>
 			<key>com.typemytype.robofont.Image.Sharpness</key>
 			<real>0.4</real>
 		</dict>
