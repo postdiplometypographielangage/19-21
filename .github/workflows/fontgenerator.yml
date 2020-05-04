@@ -35,7 +35,7 @@ jobs:
     # Runs a set of commands using the runners shell
     - name: Generate fonts
       run: |
-        for path in ./*.ufo; do
+        for path in ufo/*.ufo; do
           fontmake -u $path -o otf --output-dir generatedFonts
         done
       
