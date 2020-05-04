@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="2">
-	<advance width="621"/>
 	<unicode hex="007A"/>
+	<advance width="621"/>
 	<outline>
 		<contour>
 			<point x="79" y="510" type="line"/>
@@ -33,9 +33,9 @@
 			<key>com.typemytype.robofont.Image.Brightness</key>
 			<real>0.389</real>
 			<key>com.typemytype.robofont.Image.Contrast</key>
-			<real>1.0</real>
+			<integer>1</integer>
 			<key>com.typemytype.robofont.Image.Saturation</key>
-			<real>1.0</real>
+			<integer>1</integer>
 			<key>com.typemytype.robofont.Image.Sharpness</key>
 			<real>0.4</real>
 		</dict>

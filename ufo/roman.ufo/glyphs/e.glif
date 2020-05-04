@@ -1,45 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e" format="2">
-<<<<<<< HEAD
-  <advance width="500"/>
-  <unicode hex="0065"/>
-  <image fileName="C_apture d’écran 2020-05-04 à 13.23.30.png" xScale="0.6377226590004257" xyScale="0.0023623732506035367" yxScale="-0.0023623732506035367" yScale="0.6377226590004257" xOffset="24.349676472550186" yOffset="-46.04095790807818"/>
-  <outline>
-    <contour>
-      <point x="252" y="499" type="curve"/>
-      <point x="134" y="499"/>
-      <point x="21" y="394"/>
-      <point x="21" y="230" type="curve"/>
-      <point x="21" y="104"/>
-      <point x="100" y="-5"/>
-      <point x="245" y="-5" type="curve"/>
-      <point x="358" y="-5"/>
-      <point x="419" y="50"/>
-      <point x="458" y="154" type="curve"/>
-      <point x="348" y="200" type="line"/>
-      <point x="296" y="138" type="line"/>
-      <point x="334" y="89"/>
-      <point x="299" y="73"/>
-      <point x="277" y="73" type="curve"/>
-      <point x="222" y="73"/>
-      <point x="159" y="129"/>
-      <point x="159" y="255" type="curve"/>
-      <point x="159" y="382"/>
-      <point x="196" y="447"/>
-      <point x="241" y="447" type="curve" smooth="yes"/>
-      <point x="289" y="447"/>
-      <point x="327" y="366"/>
-      <point x="289" y="276" type="curve"/>
-      <point x="99" y="276" type="line"/>
-      <point x="99" y="224" type="line"/>
-      <point x="423" y="224" type="line"/>
-      <point x="498" y="353"/>
-      <point x="411" y="499"/>
-    </contour>
-  </outline>
-=======
-	<advance width="500"/>
 	<unicode hex="0065"/>
+	<advance width="500"/>
+	<image fileName="C_apture d’écran 2020-05-04 à 13.23.30.png" xScale="0.637722659" xyScale="0.0023623733" yxScale="-0.0023623733" yScale="0.637722659" xOffset="24.3496764726" yOffset="-46.0409579081"/>
 	<outline>
 		<contour>
 			<point x="252" y="499" type="curve"/>
@@ -52,9 +15,10 @@
 			<point x="358" y="-5"/>
 			<point x="419" y="50"/>
 			<point x="458" y="154" type="curve"/>
-			<point x="160" y="224" type="line"/>
-			<point x="382" y="129"/>
-			<point x="317" y="73"/>
+			<point x="348" y="200" type="line"/>
+			<point x="296" y="138" type="line"/>
+			<point x="334" y="89"/>
+			<point x="299" y="73"/>
 			<point x="277" y="73" type="curve"/>
 			<point x="222" y="73"/>
 			<point x="159" y="129"/>
@@ -72,5 +36,4 @@
 			<point x="411" y="499"/>
 		</contour>
 	</outline>
->>>>>>> 5291d2ffdefc2a5d76c42e7f4f6b9ec71aa0dac4
 </glyph>
