@@ -1,0 +1,22 @@
+
+
+feature ss01 {
+    featureNames {        
+        name "My Cool stylistic set!!";
+    };
+    sub e by e.alt;
+    # sub a by a.alt;
+    
+} ss01;
+
+feature ss02 {
+    @myJumpGroup = [a e e.alt i];
+    sub @myJumpGroup i' by i.jump;    
+} ss02;
+
+feature liga {
+    
+    sub z n by z_n;
+    
+} liga;
+
