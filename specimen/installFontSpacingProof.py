@@ -4,7 +4,7 @@ import os
 
 drawBot.newDrawing()
 
-fontDir = '../otf'
+fontDir = 'otf'
 
 for fontFileName in os.listdir(fontDir):
     if not fontFileName.endswith(".otf"):
