@@ -18,5 +18,7 @@ feature liga {
     
     sub z n by z_n;
     
+    sub z e n i s c a by z_e_n_i_s_c_a;
+    
 } liga;
 
