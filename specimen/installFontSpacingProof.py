@@ -53,7 +53,7 @@ for fontFileName in os.listdir(fontDir):
     
         drawBot.text(date,(drawBot.width()-40,40), align="right")
 
-drawBot.saveImage("../specimen.pdf")
+drawBot.saveImage("specimen.pdf")
 
 drawBot.endDrawing()
 
