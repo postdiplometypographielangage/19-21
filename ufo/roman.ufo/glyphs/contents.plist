@@ -4,6 +4,8 @@
   <dict>
     <key>a</key>
     <string>a.glif</string>
+    <key>a.final</key>
+    <string>a.final.glif</string>
     <key>alef-hb</key>
     <string>alef-hb.glif</string>
     <key>c</key>

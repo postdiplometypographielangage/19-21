@@ -26,3 +26,9 @@ feature liga {
     
 } liga;
 
+feature fina {
+    
+    sub a by a.final;
+        
+} fina;
+
