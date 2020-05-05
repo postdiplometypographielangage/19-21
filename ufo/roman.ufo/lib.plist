@@ -6,9 +6,17 @@
 		<array>
 			<dict>
 				<key>ascending</key>
-				<string>Latin-1</string>
+				<array>
+					<string>a</string>
+					<string>c</string>
+					<string>e</string>
+					<string>i</string>
+					<string>s</string>
+					<string>z</string>
+					<string>alef-hb</string>
+				</array>
 				<key>type</key>
-				<string>characterSet</string>
+				<string>glyphList</string>
 			</dict>
 		</array>
 		<key>com.schriftgestaltung.DisplayStrings</key>
